@@ -1,0 +1,3 @@
+Unit test, temel ve alışıldık tabirle ; Bir yazılımın en küçük biriminin tek başına test edilmesidir. Bu birim gerek bir fonksiyon, gerek bir fonksiyonun içindeki küçük bir iş yapan kod bloğu olabilir.
+Unit test, yazılımın kullanıcıya hizmet verebilirliğini kontrol etmez. Ve bir projede unit testler başarı ile sonlanıyor ise bile bu durum ürünün son kullanıcı tarafında da sorunsuz çalıştığı anlamına gelmez.
+Bu noktada Unit testin asıl amacı ve işlevi teknik ekip için bir dokümantasyon niteliğindedir.
